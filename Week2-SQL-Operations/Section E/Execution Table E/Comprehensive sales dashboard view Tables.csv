@@ -1,0 +1,58 @@
+category,sub_category,region,yr,orders,units_sold,revenue,profit,margin_pct,avg_discount_pct,performance_label
+Technology,Machines,South,2021,1,2,7999.98,1600.00,20.00,0.00,Good
+Technology,Machines,South,2023,2,2,4499.98,900.00,20.00,0.00,Good
+Technology,Machines,West,2022,1,2,4099.99,820.00,20.00,0.00,Good
+Furniture,Tables,West,2021,1,9,1706.18,85.31,5.00,20.00,Marginal
+Technology,Phones,Central,2021,2,5,1411.41,218.35,15.47,10.00,Good
+Technology,Phones,West,2023,1,9,1360.73,136.07,10.00,20.00,Marginal
+Furniture,Chairs,West,2020,3,12,1353.09,240.07,17.74,8.33,Good
+Technology,Machines,Central,2024,1,1,1299.99,259.99,20.00,0.00,Good
+Technology,Phones,Central,2023,1,2,999.98,299.99,30.00,0.00,Excellent
+Furniture,Tables,South,2021,1,5,957.58,-383.03,-40.00,45.00,Loss-Making
+Technology,Phones,West,2020,1,6,907.15,90.72,10.00,20.00,Marginal
+Furniture,Chairs,South,2021,1,3,731.94,219.58,30.00,0.00,Excellent
+Furniture,Tables,Central,2021,1,6,570.24,28.51,5.00,20.00,Marginal
+Furniture,Tables,West,2020,1,3,568.73,28.44,5.00,20.00,Marginal
+"Office Supplies",Binders,South,2020,1,2,549.98,219.99,40.00,0.00,Excellent
+Furniture,Bookcases,West,2022,1,4,523.92,83.83,16.00,0.00,Good
+Furniture,Bookcases,Central,2021,1,4,523.92,83.83,16.00,0.00,Good
+Technology,Phones,East,2023,1,2,455.71,34.18,7.50,20.00,Marginal
+Technology,Phones,South,2022,1,3,453.58,45.36,10.00,20.00,Marginal
+Furniture,Chairs,Central,2023,1,5,432.75,-7.59,-1.75,25.00,Loss-Making
+Furniture,Tables,South,2023,1,2,383.03,-153.21,-40.00,45.00,Loss-Making
+Furniture,Tables,West,2022,1,4,380.16,19.01,5.00,20.00,Marginal
+Furniture,Bookcases,South,2021,1,2,261.96,41.91,16.00,0.00,Good
+Furniture,Bookcases,East,2023,1,2,240.74,70.46,29.27,0.00,Excellent
+Furniture,Furnishings,South,2022,1,3,209.67,14.17,6.76,30.00,Marginal
+"Office Supplies",Storage,South,2022,1,4,199.92,59.98,30.00,0.00,Excellent
+"Office Supplies",Storage,West,2023,1,3,149.94,44.98,30.00,0.00,Excellent
+Technology,Accessories,Central,2021,1,5,121.29,4.71,3.89,20.00,Marginal
+Furniture,Bookcases,East,2021,1,1,120.37,35.23,29.27,0.00,Excellent
+"Office Supplies",Appliances,South,2020,1,5,114.90,34.47,30.00,0.00,Excellent
+Furniture,Furnishings,East,2022,1,2,102.00,25.03,24.54,0.00,Excellent
+"Office Supplies",Storage,East,2022,1,2,99.96,29.99,30.00,0.00,Excellent
+Technology,Accessories,East,2022,1,3,72.77,2.83,3.89,20.00,Marginal
+Technology,Accessories,South,2022,1,4,59.20,25.33,42.78,0.00,Excellent
+Furniture,Furnishings,South,2021,1,7,48.86,14.17,29.00,0.00,Excellent
+"Office Supplies",Labels,East,2023,1,6,48.48,19.80,40.84,10.00,Excellent
+"Office Supplies",Appliances,West,2020,1,2,45.96,13.79,30.00,0.00,Excellent
+"Office Supplies",Storage,Central,2022,1,4,44.74,5.03,11.25,20.00,Good
+"Office Supplies",Paper,West,2020,1,4,44.74,11.18,25.00,20.00,Excellent
+"Office Supplies",Paper,East,2023,1,4,44.74,8.95,20.00,20.00,Good
+"Office Supplies",Envelopes,East,2022,1,10,41.12,13.88,33.75,20.00,Excellent
+Technology,Accessories,South,2021,1,3,37.44,10.31,27.53,0.00,Excellent
+"Office Supplies",Binders,West,2021,1,6,37.01,11.57,31.25,20.00,Excellent
+Technology,Accessories,Central,2020,1,2,29.60,12.66,42.78,0.00,Excellent
+"Office Supplies",Binders,West,2022,1,3,27.76,-5.70,-20.52,20.00,Loss-Making
+"Office Supplies",Labels,East,2021,1,6,26.40,10.40,39.38,10.00,Excellent
+Technology,Accessories,West,2022,1,2,24.96,6.86,27.50,0.00,Excellent
+"Office Supplies",Storage,South,2021,1,2,22.37,2.52,11.25,20.00,Good
+"Office Supplies",Paper,Central,2021,1,2,22.37,5.59,25.00,20.00,Excellent
+"Office Supplies",Paper,West,2021,1,2,22.37,4.47,20.00,20.00,Good
+"Office Supplies",Binders,Central,2021,1,3,18.50,-3.80,-20.52,20.00,Loss-Making
+"Office Supplies",Binders,West,2020,1,3,18.50,5.78,31.25,20.00,Excellent
+"Office Supplies",Art,East,2021,1,7,18.20,4.91,27.00,0.00,Excellent
+"Office Supplies",Envelopes,West,2022,1,4,16.45,5.55,33.76,20.00,Excellent
+"Office Supplies",Labels,West,2021,1,2,14.62,6.87,47.00,0.00,Excellent
+"Office Supplies",Art,West,2020,1,4,7.28,1.97,27.00,0.00,Excellent
+"Office Supplies",Fasteners,East,2022,1,2,4.69,1.69,36.00,0.00,Excellent

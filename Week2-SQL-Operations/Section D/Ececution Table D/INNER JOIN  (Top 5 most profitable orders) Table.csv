@@ -1,0 +1,6 @@
+order_id,order_date,customer_name,region,order_sales,order_profit
+CA-2021-138688,2021-06-12,"Sean O'Donnell",South,9028.79,1233.65
+CA-2022-143336,2022-08-27,"Zuschuss Donatelli",West,4144.19,819.85
+CA-2023-112221,2023-06-05,"Nick Barnes",South,2499.99,500.00
+CA-2023-170310,2023-08-17,"Sean O'Donnell",South,1999.99,400.00
+CA-2023-138897,2023-09-14,"Todd Mathew",Central,999.98,299.99

@@ -1,0 +1,5 @@
+ship_mode,total_orders,avg_ship_days,min_ship_days,max_ship_days
+"First Class",7,4.3,4,5
+"Second Class",14,4.4,3,6
+"Same Day",2,4.5,4,5
+"Standard Class",17,4.9,4,7

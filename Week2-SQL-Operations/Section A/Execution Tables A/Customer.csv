@@ -1,0 +1,31 @@
+customer_id,customer_name,segment,country,city,state,postal_code,region
+AA-10480,"Andrew Allen",Consumer,"United States",Concord,"North Carolina",28027,South
+AG-10270,"Alejandro Grove",Consumer,"United States","West Jordan",Utah,84084,West
+AL-10735,"Annie Lyvyn",Consumer,"United States",Baltimore,Maryland,21201,East
+BC-11785,"Bart Cloudsley",Consumer,"United States","Las Vegas",Nevada,89101,West
+BH-11710,"Brosina Hoffman",Consumer,"United States","Los Angeles",California,90032,West
+CG-12520,"Claire Gute",Consumer,"United States",Henderson,Kentucky,42420,South
+CS-12355,"Chad Sievert",Corporate,"United States",Chicago,Illinois,60610,Central
+DP-13240,"Dave Poirier",Consumer,"United States",Minneapolis,Minnesota,55401,Central
+DV-13045,"Darrin Van Huff",Corporate,"United States","Los Angeles",California,90036,West
+EW-13945,"Erin Wyman",Consumer,"United States",Portland,Oregon,97201,West
+GT-14635,"Grant Thornton",Corporate,"United States",Denver,Colorado,80202,West
+HP-14815,"Harold Pawlan","Home Office","United States","Fort Worth",Texas,76106,Central
+IM-15070,"Irene Maddox",Consumer,"United States",Seattle,Washington,98103,West
+JE-15715,"Jim Ealy",Consumer,"United States",Philadelphia,Pennsylvania,19140,East
+JL-15775,"Justin Lacourse","Home Office","United States",Nashville,Tennessee,37201,South
+KL-16645,"Ken Lonsdale",Corporate,"United States","New York City","New York",10024,East
+KN-16705,"Karen Narrow","Home Office","United States",Dallas,Texas,75201,Central
+LS-17230,"Lena Stephens",Consumer,"United States",Boston,Massachusetts,02101,East
+MB-17755,"Matt Bhatt",Corporate,"United States",Atlanta,Georgia,30301,South
+MV-17845,"Mark Vaughn",Consumer,"United States",Columbus,Ohio,43004,East
+NB-18715,"Nick Barnes","Home Office","United States",Miami,Florida,33101,South
+PH-19045,"Phil Houdyshell",Corporate,"United States",Phoenix,Arizona,85001,West
+PK-19075,"Pete Kriz",Consumer,"United States",Madison,Wisconsin,53711,Central
+RB-19360,"Rick Bensley",Consumer,"United States",Burlington,Vermont,05401,East
+SC-20470,"Sylvia Candelaria","Home Office","United States","San Diego",California,92101,West
+SF-20095,"Sanjit Frey",Corporate,"United States",Detroit,Michigan,48201,East
+SO-20335,"Sean O'Donnell",Consumer,"United States","Fort Lauderdale",Florida,33311,South
+TM-21490,"Todd Mathew",Corporate,"United States",Houston,Texas,77002,Central
+TR-21175,"Tom Roden",Corporate,"United States",Charlotte,"North Carolina",28201,South
+ZD-21925,"Zuschuss Donatelli",Consumer,"United States","San Francisco",California,94109,West

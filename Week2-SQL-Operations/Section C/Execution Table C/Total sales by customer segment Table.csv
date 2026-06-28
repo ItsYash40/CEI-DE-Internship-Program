@@ -1,0 +1,4 @@
+segment,total_orders,total_items,total_sales,total_profit,avg_sale
+Consumer,20,33,21571.72,3391.82,653.69
+Corporate,15,20,6218.39,854.17,310.92
+"Home Office",5,7,5499.78,920.94,785.68

@@ -1,0 +1,41 @@
+order_id,order_date,ship_date,ship_mode,customer_name,city,state,region,segment
+CA-2020-167164,2020-01-28,2020-02-03,"Second Class","Alejandro Grove","West Jordan",Utah,West,Consumer
+CA-2020-105893,2020-03-14,2020-03-18,"Standard Class","Pete Kriz",Madison,Wisconsin,Central,Consumer
+CA-2020-143259,2020-05-30,2020-06-04,"Standard Class","Brosina Hoffman","Los Angeles",California,West,Consumer
+CA-2020-195725,2020-08-12,2020-08-16,"Standard Class","Grant Thornton",Denver,Colorado,West,Corporate
+CA-2020-134515,2020-09-04,2020-09-08,"First Class","Bart Cloudsley","Las Vegas",Nevada,West,Consumer
+US-2020-108967,2020-10-11,2020-10-18,"Standard Class","Andrew Allen",Concord,"North Carolina",South,Consumer
+US-2020-108966,2020-10-11,2020-10-18,"Standard Class","Brosina Hoffman","Los Angeles",California,West,Consumer
+US-2020-118983,2020-11-22,2020-11-26,"Standard Class","Matt Bhatt",Atlanta,Georgia,South,Corporate
+CA-2021-107727,2021-03-18,2021-03-23,"Standard Class","Chad Sievert",Chicago,Illinois,Central,Corporate
+CA-2021-119823,2021-04-15,2021-04-20,"First Class","Jim Ealy",Philadelphia,Pennsylvania,East,Consumer
+CA-2021-115813,2021-06-09,2021-06-14,"First Class","Harold Pawlan","Fort Worth",Texas,Central,"Home Office"
+CA-2021-115812,2021-06-09,2021-06-14,"Standard Class","Irene Maddox",Seattle,Washington,West,Consumer
+CA-2021-138688,2021-06-12,2021-06-16,"Second Class","Sean O'Donnell","Fort Lauderdale",Florida,South,Consumer
+CA-2021-127180,2021-07-31,2021-08-05,"Second Class","Mark Vaughn",Columbus,Ohio,East,Consumer
+CA-2021-135070,2021-09-22,2021-09-27,"Second Class","Karen Narrow",Dallas,Texas,Central,"Home Office"
+CA-2021-135069,2021-09-22,2021-09-27,"Standard Class","Chad Sievert",Chicago,Illinois,Central,Corporate
+CA-2021-152156,2021-11-08,2021-11-11,"Second Class","Claire Gute",Henderson,Kentucky,South,Consumer
+CA-2021-152157,2021-11-08,2021-11-11,"Second Class","Darrin Van Huff","Los Angeles",California,West,Corporate
+CA-2021-163265,2021-12-01,2021-12-06,"Second Class","Darrin Van Huff","Los Angeles",California,West,Corporate
+CA-2022-155363,2022-02-14,2022-02-19,"Standard Class","Claire Gute",Henderson,Kentucky,South,Consumer
+CA-2022-100392,2022-03-17,2022-03-22,"Standard Class","Erin Wyman",Portland,Oregon,West,Consumer
+CA-2022-100391,2022-03-17,2022-03-22,"Second Class","Grant Thornton",Denver,Colorado,West,Corporate
+CA-2022-140839,2022-05-23,2022-05-28,"Standard Class","Justin Lacourse",Nashville,Tennessee,South,"Home Office"
+CA-2022-112244,2022-06-28,2022-07-03,"Standard Class","Lena Stephens",Boston,Massachusetts,East,Consumer
+CA-2022-167200,2022-07-19,2022-07-23,"Standard Class","Dave Poirier",Minneapolis,Minnesota,Central,Consumer
+CA-2022-167199,2022-07-19,2022-07-23,"First Class","Phil Houdyshell",Phoenix,Arizona,West,Corporate
+CA-2022-143337,2022-08-27,2022-09-01,"Same Day","Ken Lonsdale","New York City","New York",East,Corporate
+CA-2022-143336,2022-08-27,2022-09-01,"Second Class","Zuschuss Donatelli","San Francisco",California,West,Consumer
+CA-2022-179980,2022-10-05,2022-10-09,"First Class","Matt Bhatt",Atlanta,Georgia,South,Corporate
+CA-2022-160782,2022-12-09,2022-12-13,"Standard Class","Rick Bensley",Burlington,Vermont,East,Consumer
+CA-2023-102925,2023-02-08,2023-02-12,"Second Class","Sylvia Candelaria","San Diego",California,West,"Home Office"
+CA-2023-102926,2023-02-08,2023-02-12,"Same Day","Tom Roden",Charlotte,"North Carolina",South,Corporate
+CA-2023-118255,2023-04-11,2023-04-16,"Standard Class","Sanjit Frey",Detroit,Michigan,East,Corporate
+CA-2023-118256,2023-04-11,2023-04-16,"Second Class","Annie Lyvyn",Baltimore,Maryland,East,Consumer
+CA-2023-112221,2023-06-05,2023-06-09,"Standard Class","Nick Barnes",Miami,Florida,South,"Home Office"
+CA-2023-112220,2023-06-05,2023-06-09,"First Class","Todd Mathew",Houston,Texas,Central,Corporate
+CA-2023-170310,2023-08-17,2023-08-21,"First Class","Sean O'Donnell","Fort Lauderdale",Florida,South,Consumer
+CA-2023-138897,2023-09-14,2023-09-18,"Second Class","Todd Mathew",Houston,Texas,Central,Corporate
+CA-2023-122428,2023-10-22,2023-10-26,"Second Class","Ken Lonsdale","New York City","New York",East,Corporate
+CA-2023-145317,2023-11-30,2023-12-04,"Second Class","Lena Stephens",Boston,Massachusetts,East,Consumer

@@ -1,0 +1,61 @@
+order_id,order_date,ship_mode,customer_name,segment,region,state,product_name,category,sub_category,quantity,sales_usd,discount,profit_usd
+CA-2023-145317,2023-11-30,"Second Class","Lena Stephens",Consumer,East,Massachusetts,"Self-Adhesive Address Labels","Office Supplies",Labels,6,48.48,0.1000,19.80
+CA-2023-122428,2023-10-22,"Second Class","Ken Lonsdale",Corporate,East,"New York","O'Sullivan Plantations 2-Door Library",Furniture,Bookcases,2,240.74,0.0000,70.46
+CA-2023-138897,2023-09-14,"Second Class","Todd Mathew",Corporate,Central,Texas,"Plantronics CS510",Technology,Phones,2,999.98,0.0000,299.99
+CA-2023-170310,2023-08-17,"First Class","Sean O'Donnell",Consumer,South,Florida,"Apple MacBook Pro 15"",Technology,Machines,1,1999.99,0.0000,400.00
+CA-2023-112220,2023-06-05,"First Class","Todd Mathew",Corporate,Central,Texas,"Global Adaptabilities Executive Chair",Furniture,Chairs,5,432.75,0.2500,-7.59
+CA-2023-112221,2023-06-05,"Standard Class","Nick Barnes","Home Office",South,Florida,"Apple MacBook Pro 15"",Technology,Machines,1,2499.99,0.0000,500.00
+CA-2023-118255,2023-04-11,"Standard Class","Sanjit Frey",Corporate,East,Michigan,"Xerox 1967","Office Supplies",Paper,4,44.74,0.2000,8.95
+CA-2023-118256,2023-04-11,"Second Class","Annie Lyvyn",Consumer,East,Maryland,"Konftel 250 Conference phone",Technology,Phones,2,455.71,0.2000,34.18
+CA-2023-102925,2023-02-08,"Second Class","Sylvia Candelaria","Home Office",West,California,"Fellowes Super Stor/Drawer","Office Supplies",Storage,3,149.94,0.0000,44.98
+CA-2023-102925,2023-02-08,"Second Class","Sylvia Candelaria","Home Office",West,California,"Mitel 5320 IP Phone VoIP phone",Technology,Phones,9,1360.73,0.2000,136.07
+CA-2023-102926,2023-02-08,"Same Day","Tom Roden",Corporate,South,"North Carolina","Bretford CR4500 Series Slim Rectangular Table",Furniture,Tables,2,383.03,0.4500,-153.21
+CA-2022-160782,2022-12-09,"Standard Class","Rick Bensley",Consumer,East,Vermont,"Logitech Wireless Combo MK270",Technology,Accessories,3,72.77,0.2000,2.83
+CA-2022-160782,2022-12-09,"Standard Class","Rick Bensley",Consumer,East,Vermont,"Fellowes Super Stor/Drawer","Office Supplies",Storage,2,99.96,0.0000,29.99
+CA-2022-179980,2022-10-05,"First Class","Matt Bhatt",Corporate,South,Georgia,"Fellowes Super Stor/Drawer","Office Supplies",Storage,4,199.92,0.0000,59.98
+CA-2022-179980,2022-10-05,"First Class","Matt Bhatt",Corporate,South,Georgia,"Mitel 5320 IP Phone VoIP phone",Technology,Phones,3,453.58,0.2000,45.36
+CA-2022-143336,2022-08-27,"Second Class","Zuschuss Donatelli",Consumer,West,California,"Avery 504","Office Supplies",Binders,3,27.76,0.2000,-5.70
+CA-2022-143336,2022-08-27,"Second Class","Zuschuss Donatelli",Consumer,West,California,"Staple envelope","Office Supplies",Envelopes,4,16.45,0.2000,5.55
+CA-2022-143336,2022-08-27,"Second Class","Zuschuss Donatelli",Consumer,West,California,"Apple MacBook Pro 15"",Technology,Machines,2,4099.99,0.0000,820.00
+CA-2022-143337,2022-08-27,"Same Day","Ken Lonsdale",Corporate,East,"New York","Seth Thomas Clock (Set of 6)",Furniture,Furnishings,2,102.00,0.0000,25.03
+CA-2022-143337,2022-08-27,"Same Day","Ken Lonsdale",Corporate,East,"New York","Fiskars 8" Scissors","Office Supplies",Fasteners,2,4.69,0.0000,1.69
+CA-2022-167199,2022-07-19,"First Class","Phil Houdyshell",Corporate,West,Arizona,"Bush Somerset Collection Bookcase",Furniture,Bookcases,4,523.92,0.0000,83.83
+CA-2022-167200,2022-07-19,"Standard Class","Dave Poirier",Consumer,Central,Minnesota,"Eldon Fold-Up Mobile Desk Accessories","Office Supplies",Storage,4,44.74,0.2000,5.03
+CA-2022-112244,2022-06-28,"Standard Class","Lena Stephens",Consumer,East,Massachusetts,"Staple envelope","Office Supplies",Envelopes,10,41.12,0.2000,13.88
+CA-2022-140839,2022-05-23,"Standard Class","Justin Lacourse","Home Office",South,Tennessee,"Logitech G500s Laser Gaming Mouse",Technology,Accessories,4,59.20,0.0000,25.33
+CA-2022-100391,2022-03-17,"Second Class","Grant Thornton",Corporate,West,Colorado,"Bevis 36 x 72 Conference Tables",Furniture,Tables,4,380.16,0.2000,19.01
+CA-2022-100392,2022-03-17,"Standard Class","Erin Wyman",Consumer,West,Oregon,"Belkin 7-Outlet Metallic Surge Strip",Technology,Accessories,2,24.96,0.0000,6.86
+CA-2022-155363,2022-02-14,"Standard Class","Claire Gute",Consumer,South,Kentucky,"Eldon Expressions Punched Metal & Wood Folders",Furniture,Furnishings,3,209.67,0.3000,14.17
+CA-2021-163265,2021-12-01,"Second Class","Darrin Van Huff",Corporate,West,California,"DXL Angle-View Binders with Locking Rings","Office Supplies",Binders,6,37.01,0.2000,11.57
+CA-2021-152156,2021-11-08,"Second Class","Claire Gute",Consumer,South,Kentucky,"Belkin 7-Outlet Metallic Surge Strip",Technology,Accessories,3,37.44,0.0000,10.31
+CA-2021-152156,2021-11-08,"Second Class","Claire Gute",Consumer,South,Kentucky,"Hon Deluxe Fabric Upholstered Stacking Chairs",Furniture,Chairs,3,731.94,0.0000,219.58
+CA-2021-152156,2021-11-08,"Second Class","Claire Gute",Consumer,South,Kentucky,"Bush Somerset Collection Bookcase",Furniture,Bookcases,2,261.96,0.0000,41.91
+CA-2021-152157,2021-11-08,"Second Class","Darrin Van Huff",Corporate,West,California,"Self-Adhesive Address Labels","Office Supplies",Labels,2,14.62,0.0000,6.87
+CA-2021-135069,2021-09-22,"Standard Class","Chad Sievert",Corporate,Central,Illinois,"Enermax Note Cards","Office Supplies",Paper,2,22.37,0.2000,5.59
+CA-2021-135069,2021-09-22,"Standard Class","Chad Sievert",Corporate,Central,Illinois,"Bush Somerset Collection Bookcase",Furniture,Bookcases,4,523.92,0.0000,83.83
+CA-2021-135070,2021-09-22,"Second Class","Karen Narrow","Home Office",Central,Texas,"Plantronics CS510",Technology,Phones,1,499.99,0.0000,150.00
+CA-2021-127180,2021-07-31,"Second Class","Mark Vaughn",Consumer,East,Ohio,"Newell 322","Office Supplies",Art,7,18.20,0.0000,4.91
+CA-2021-138688,2021-06-12,"Second Class","Sean O'Donnell",Consumer,South,Florida,"Cisco TelePresence System EX90",Technology,Machines,2,7999.98,0.0000,1600.00
+CA-2021-138688,2021-06-12,"Second Class","Sean O'Donnell",Consumer,South,Florida,"Eldon Expressions Punched Metal & Wood Folders",Furniture,Furnishings,7,48.86,0.0000,14.17
+CA-2021-138688,2021-06-12,"Second Class","Sean O'Donnell",Consumer,South,Florida,"Eldon Fold-Up Mobile Desk Accessories","Office Supplies",Storage,2,22.37,0.2000,2.52
+CA-2021-138688,2021-06-12,"Second Class","Sean O'Donnell",Consumer,South,Florida,"Bretford CR4500 Series Slim Rectangular Table",Furniture,Tables,5,957.58,0.4500,-383.03
+CA-2021-115812,2021-06-09,"Standard Class","Irene Maddox",Consumer,West,Washington,"Xerox 1967","Office Supplies",Paper,2,22.37,0.2000,4.47
+CA-2021-115812,2021-06-09,"Standard Class","Irene Maddox",Consumer,West,Washington,"Chromcraft Rectangular Conference Tables",Furniture,Tables,9,1706.18,0.2000,85.31
+CA-2021-115813,2021-06-09,"First Class","Harold Pawlan","Home Office",Central,Texas,"Avery 504","Office Supplies",Binders,3,18.50,0.2000,-3.80
+CA-2021-115813,2021-06-09,"First Class","Harold Pawlan","Home Office",Central,Texas,"Konftel 250 Conference phone",Technology,Phones,4,911.42,0.2000,68.36
+CA-2021-119823,2021-04-15,"First Class","Jim Ealy",Consumer,East,Pennsylvania,"O'Sullivan Plantations 2-Door Library",Furniture,Bookcases,1,120.37,0.0000,35.23
+CA-2021-119823,2021-04-15,"First Class","Jim Ealy",Consumer,East,Pennsylvania,"Avery 506","Office Supplies",Labels,6,26.40,0.1000,10.40
+CA-2021-107727,2021-03-18,"Standard Class","Chad Sievert",Corporate,Central,Illinois,"Bevis 36 x 72 Conference Tables",Furniture,Tables,6,570.24,0.2000,28.51
+CA-2021-107727,2021-03-18,"Standard Class","Chad Sievert",Corporate,Central,Illinois,"Logitech Wireless Combo MK270",Technology,Accessories,5,121.29,0.2000,4.71
+US-2020-118983,2020-11-22,"Standard Class","Matt Bhatt",Corporate,South,Georgia,"GBC DocuBind P400 Electric Binding System","Office Supplies",Binders,2,549.98,0.0000,219.99
+US-2020-108966,2020-10-11,"Standard Class","Brosina Hoffman",Consumer,West,California,"Newell 322","Office Supplies",Art,4,7.28,0.0000,1.97
+US-2020-108966,2020-10-11,"Standard Class","Brosina Hoffman",Consumer,West,California,"DXL Angle-View Binders with Locking Rings","Office Supplies",Binders,3,18.50,0.2000,5.78
+US-2020-108966,2020-10-11,"Standard Class","Brosina Hoffman",Consumer,West,California,"Global Adaptabilities Executive Chair",Furniture,Chairs,5,576.75,0.2500,-10.13
+US-2020-108966,2020-10-11,"Standard Class","Brosina Hoffman",Consumer,West,California,"Mitel 5320 IP Phone VoIP phone",Technology,Phones,6,907.15,0.2000,90.72
+US-2020-108967,2020-10-11,"Standard Class","Andrew Allen",Consumer,South,"North Carolina","Belkin F5C206VTEL 6 Outlet Surge","Office Supplies",Appliances,5,114.90,0.0000,34.47
+CA-2020-134515,2020-09-04,"First Class","Bart Cloudsley",Consumer,West,Nevada,"Hon Deluxe Fabric Upholstered Stacking Chairs",Furniture,Chairs,2,487.96,0.0000,146.39
+CA-2020-195725,2020-08-12,"Standard Class","Grant Thornton",Corporate,West,Colorado,"Enermax Note Cards","Office Supplies",Paper,4,44.74,0.2000,11.18
+CA-2020-195725,2020-08-12,"Standard Class","Grant Thornton",Corporate,West,Colorado,"Chromcraft Rectangular Conference Tables",Furniture,Tables,3,568.73,0.2000,28.44
+CA-2020-143259,2020-05-30,"Standard Class","Brosina Hoffman",Consumer,West,California,"Belkin F5C206VTEL 6 Outlet Surge","Office Supplies",Appliances,2,45.96,0.0000,13.79
+CA-2020-105893,2020-03-14,"Standard Class","Pete Kriz",Consumer,Central,Wisconsin,"Logitech G500s Laser Gaming Mouse",Technology,Accessories,2,29.60,0.0000,12.66
+CA-2020-167164,2020-01-28,"Second Class","Alejandro Grove",Consumer,West,Utah,"Global Adaptabilities Executive Chair",Furniture,Chairs,5,288.38,0.0000,103.82

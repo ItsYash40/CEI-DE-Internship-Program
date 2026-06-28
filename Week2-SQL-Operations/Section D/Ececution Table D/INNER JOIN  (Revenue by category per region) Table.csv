@@ -1,0 +1,13 @@
+region,category,total_sales,total_profit,num_line_items
+Central,Technology,2562.28,535.72,5
+Central,Furniture,1526.91,104.75,3
+Central,"Office Supplies",85.61,6.83,3
+East,Technology,528.49,37.01,2
+East,Furniture,463.11,130.72,3
+East,"Office Supplies",283.59,89.61,7
+South,Technology,13050.18,2580.98,6
+South,Furniture,2593.04,-246.41,6
+South,"Office Supplies",887.17,316.95,4
+West,Technology,6392.83,1053.65,4
+West,Furniture,4532.08,456.65,7
+West,"Office Supplies",384.62,100.47,10

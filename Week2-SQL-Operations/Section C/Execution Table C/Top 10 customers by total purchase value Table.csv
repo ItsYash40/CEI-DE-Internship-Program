@@ -1,0 +1,11 @@
+customer_id,customer_name,segment,region,total_orders,total_spent,total_profit_generated
+SO-20335,"Sean O'Donnell",Consumer,South,2,11028.78,1633.65
+ZD-21925,"Zuschuss Donatelli",Consumer,West,1,4144.19,819.85
+NB-18715,"Nick Barnes","Home Office",South,1,2499.99,500.00
+IM-15070,"Irene Maddox",Consumer,West,1,1728.55,89.78
+BH-11710,"Brosina Hoffman",Consumer,West,2,1555.65,102.12
+SC-20470,"Sylvia Candelaria","Home Office",West,1,1510.67,181.05
+TM-21490,"Todd Mathew",Corporate,Central,2,1432.73,292.40
+CG-12520,"Claire Gute",Consumer,South,2,1241.01,285.97
+CS-12355,"Chad Sievert",Corporate,Central,2,1237.82,122.64
+MB-17755,"Matt Bhatt",Corporate,South,2,1203.48,325.33

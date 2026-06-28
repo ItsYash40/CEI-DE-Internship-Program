@@ -1,0 +1,11 @@
+customer_id,customer_name,segment,country,city,state,postal_code,region
+AA-10480,"Andrew Allen",Consumer,"United States",Concord,"North Carolina",28027,South
+AG-10270,"Alejandro Grove",Consumer,"United States","West Jordan",Utah,84084,West
+AL-10735,"Annie Lyvyn",Consumer,"United States",Baltimore,Maryland,21201,East
+BC-11785,"Bart Cloudsley",Consumer,"United States","Las Vegas",Nevada,89101,West
+BH-11710,"Brosina Hoffman",Consumer,"United States","Los Angeles",California,90032,West
+CG-12520,"Claire Gute",Consumer,"United States",Henderson,Kentucky,42420,South
+CS-12355,"Chad Sievert",Corporate,"United States",Chicago,Illinois,60610,Central
+DP-13240,"Dave Poirier",Consumer,"United States",Minneapolis,Minnesota,55401,Central
+DV-13045,"Darrin Van Huff",Corporate,"United States","Los Angeles",California,90036,West
+EW-13945,"Erin Wyman",Consumer,"United States",Portland,Oregon,97201,West

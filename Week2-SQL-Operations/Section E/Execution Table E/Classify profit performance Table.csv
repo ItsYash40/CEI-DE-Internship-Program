@@ -1,0 +1,61 @@
+item_id,order_id,product_name,profit_usd,profitability_label
+4,CA-2021-138688,"Bretford CR4500 Series Slim Rectangular Table",-383.03,Loss
+36,CA-2023-102926,"Bretford CR4500 Series Slim Rectangular Table",-153.21,Loss
+54,US-2020-108966,"Global Adaptabilities Executive Chair",-10.13,Loss
+30,CA-2023-112220,"Global Adaptabilities Executive Chair",-7.59,Loss
+55,CA-2022-143336,"Avery 504",-5.70,Loss
+14,CA-2021-115813,"Avery 504",-3.80,Loss
+19,CA-2022-143337,"Fiskars 8" Scissors",1.69,Profitable
+7,US-2020-108966,"Newell 322",1.97,Profitable
+5,CA-2021-138688,"Eldon Fold-Up Mobile Desk Accessories",2.52,Profitable
+22,CA-2022-160782,"Logitech Wireless Combo MK270",2.83,Profitable
+12,CA-2021-115812,"Xerox 1967",4.47,Profitable
+47,CA-2021-107727,"Logitech Wireless Combo MK270",4.71,Profitable
+37,CA-2021-127180,"Newell 322",4.91,Profitable
+34,CA-2022-167200,"Eldon Fold-Up Mobile Desk Accessories",5.03,Profitable
+18,CA-2022-143336,"Staple envelope",5.55,Profitable
+25,CA-2021-135069,"Enermax Note Cards",5.59,Profitable
+9,US-2020-108966,"DXL Angle-View Binders with Locking Rings",5.78,Profitable
+29,CA-2022-100392,"Belkin 7-Outlet Metallic Surge Strip",6.86,Profitable
+3,CA-2021-152157,"Self-Adhesive Address Labels",6.87,Profitable
+40,CA-2023-118255,"Xerox 1967",8.95,Profitable
+52,CA-2021-152156,"Belkin 7-Outlet Metallic Surge Strip",10.31,Profitable
+23,CA-2021-119823,"Avery 506",10.40,Profitable
+60,CA-2020-195725,"Enermax Note Cards",11.18,Profitable
+43,CA-2021-163265,"DXL Angle-View Binders with Locking Rings",11.57,Profitable
+15,CA-2020-105893,"Logitech G500s Laser Gaming Mouse",12.66,Profitable
+45,CA-2020-143259,"Belkin F5C206VTEL 6 Outlet Surge",13.79,Profitable
+51,CA-2022-112244,"Staple envelope",13.88,Profitable
+6,CA-2021-138688,"Eldon Expressions Punched Metal & Wood Folders",14.17,Profitable
+42,CA-2022-155363,"Eldon Expressions Punched Metal & Wood Folders",14.17,Profitable
+28,CA-2022-100391,"Bevis 36 x 72 Conference Tables",19.01,Profitable
+32,CA-2023-145317,"Self-Adhesive Address Labels",19.80,Profitable
+20,CA-2022-143337,"Seth Thomas Clock (Set of 6)",25.03,Profitable
+38,CA-2022-140839,"Logitech G500s Laser Gaming Mouse",25.33,Profitable
+49,CA-2020-195725,"Chromcraft Rectangular Conference Tables",28.44,Profitable
+58,CA-2021-107727,"Bevis 36 x 72 Conference Tables",28.51,Profitable
+21,CA-2022-160782,"Fellowes Super Stor/Drawer",29.99,Profitable
+41,CA-2023-118256,"Konftel 250 Conference phone",34.18,Profitable
+10,US-2020-108967,"Belkin F5C206VTEL 6 Outlet Surge",34.47,Profitable
+24,CA-2021-119823,"O'Sullivan Plantations 2-Door Library",35.23,Profitable
+1,CA-2021-152156,"Bush Somerset Collection Bookcase",41.91,Profitable
+57,CA-2023-102925,"Fellowes Super Stor/Drawer",44.98,Profitable
+59,CA-2022-179980,"Mitel 5320 IP Phone VoIP phone",45.36,Profitable
+48,CA-2022-179980,"Fellowes Super Stor/Drawer",59.98,Profitable
+13,CA-2021-115813,"Konftel 250 Conference phone",68.36,Profitable
+46,CA-2023-122428,"O'Sullivan Plantations 2-Door Library",70.46,Profitable
+56,CA-2021-135069,"Bush Somerset Collection Bookcase",83.83,Profitable
+33,CA-2022-167199,"Bush Somerset Collection Bookcase",83.83,Profitable
+11,CA-2021-115812,"Chromcraft Rectangular Conference Tables",85.31,Profitable
+8,US-2020-108966,"Mitel 5320 IP Phone VoIP phone",90.72,Profitable
+16,CA-2020-167164,"Global Adaptabilities Executive Chair",103.82,Profitable
+35,CA-2023-102925,"Mitel 5320 IP Phone VoIP phone",136.07,Profitable
+39,CA-2020-134515,"Hon Deluxe Fabric Upholstered Stacking Chairs",146.39,Profitable
+26,CA-2021-135070,"Plantronics CS510",150.00,Profitable
+2,CA-2021-152156,"Hon Deluxe Fabric Upholstered Stacking Chairs",219.58,Profitable
+27,US-2020-118983,"GBC DocuBind P400 Electric Binding System",219.99,Profitable
+50,CA-2023-138897,"Plantronics CS510",299.99,Profitable
+44,CA-2023-170310,"Apple MacBook Pro 15"",400.00,Profitable
+31,CA-2023-112221,"Apple MacBook Pro 15"",500.00,Profitable
+17,CA-2022-143336,"Apple MacBook Pro 15"",820.00,"High Profit"
+53,CA-2021-138688,"Cisco TelePresence System EX90",1600.00,"High Profit"

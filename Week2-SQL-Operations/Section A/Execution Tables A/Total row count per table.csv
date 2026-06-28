@@ -1,0 +1,5 @@
+table_name,total_rows
+customers,30
+products,30
+orders,40
+order_items,60

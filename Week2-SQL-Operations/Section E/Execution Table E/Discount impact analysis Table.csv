@@ -1,0 +1,5 @@
+discount_band,num_transactions,avg_sales,avg_profit,profit_margin_pct
+"No Discount",30,759.55,168.93,22.24
+"Low (1–20%)",25,317.74,25.55,8.04
+"Medium (21–40%)",3,406.39,-1.19,-0.29
+"High (> 40%)",2,670.30,-268.12,-40.00

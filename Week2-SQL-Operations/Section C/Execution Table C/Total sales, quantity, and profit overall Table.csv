@@ -1,0 +1,2 @@
+total_transactions,total_sales,total_quantity,total_profit,avg_sale_per_transaction,avg_profit_per_transaction,max_single_sale,min_single_sale
+60,33289.89,218,5166.93,554.83,86.12,7999.98,4.69

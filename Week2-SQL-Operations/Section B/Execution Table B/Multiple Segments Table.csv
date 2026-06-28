@@ -1,0 +1,15 @@
+customer_id,customer_name,segment,region
+CS-12355,"Chad Sievert",Corporate,Central
+TM-21490,"Todd Mathew",Corporate,Central
+KL-16645,"Ken Lonsdale",Corporate,East
+SF-20095,"Sanjit Frey",Corporate,East
+MB-17755,"Matt Bhatt",Corporate,South
+TR-21175,"Tom Roden",Corporate,South
+DV-13045,"Darrin Van Huff",Corporate,West
+GT-14635,"Grant Thornton",Corporate,West
+PH-19045,"Phil Houdyshell",Corporate,West
+HP-14815,"Harold Pawlan","Home Office",Central
+KN-16705,"Karen Narrow","Home Office",Central
+JL-15775,"Justin Lacourse","Home Office",South
+NB-18715,"Nick Barnes","Home Office",South
+SC-20470,"Sylvia Candelaria","Home Office",West

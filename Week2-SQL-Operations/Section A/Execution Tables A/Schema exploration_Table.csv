@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+item_id,int,NO,PRI,NULL,auto_increment
+order_id,varchar(30),NO,MUL,NULL,
+product_id,varchar(50),NO,MUL,NULL,
+sales,"decimal(10,4)",NO,,NULL,
+quantity,int,NO,,NULL,
+discount,"decimal(5,4)",NO,,0.0000,
+profit,"decimal(10,4)",NO,,NULL,
