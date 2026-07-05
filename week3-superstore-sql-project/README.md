@@ -10,9 +10,7 @@
 ## A quick, honest note before anything else
 
 The task pointed to the Kaggle Superstore dataset
-(https://www.kaggle.com/datasets/vivek468/superstore-dataset-final). I built and ran this
-project in a sandboxed environment that only has network access to package registries
-(PyPI, npm, GitHub, etc.) — it cannot reach kaggle.com.
+(https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
 
 So instead of faking numbers, I generated a **synthetic dataset with the exact same
 column structure** as the real Superstore file (`Order ID`, `Customer ID`, `Sales`,
@@ -164,13 +162,4 @@ total sales ≈ $1,330,121.79**, average line-item sale ≈ $2,557.93.
    "get me the top 10 by rank" if there are ties near the cutoff — `DENSE_RANK` may
    return more than 10 rows in that case, `RANK` may return fewer than expected.
 
----
 
-## What I'd do with more time / real data
-
-- Add a `date`-based cohort analysis (first purchase month → retention over time), which
-  needs `DATE_TRUNC`/`strftime` plus window functions — natural next step after this project.
-- Validate the "single-order customer" segment against recency (are they one-time
-  buyers from 3 years ago, or from last month?) before deciding they're worth chasing.
-- Re-run everything against the real Kaggle CSV (see note at the top) — the SQL logic
-  won't change, only the numbers will.
