@@ -1,4 +1,4 @@
-# Shopping Analysis
+# Week 1 Assignment - Shopping Analysis 
 
 ## Basic Data Exploration and Cleaning using Pandas
 
