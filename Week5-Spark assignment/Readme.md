@@ -44,12 +44,8 @@ spark-assignment/
 │   └── spark_basics.ipynb       ← full walkthrough notebook, already executed with real output
 │
 ├── output/
-│   └── results.csv              ← final aggregated pipeline output (region × category)
-│
-└── src/                         ← plain .py versions (bonus — same logic as the notebook)
-    ├── generate_dataset.py      ← regenerates data/dataset.csv
-    ├── spark_pipeline.py        ← the complete end-to-end pipeline as a standalone script
-    └── build_notebook.py        ← programmatically builds notebook/spark_basics.ipynb
+    └── results.csv              ← final aggregated pipeline output 
+
 ```
 
 ---
